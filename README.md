@@ -1,4 +1,4 @@
-### Hi there 👋
+### Web Development| Software Engineering| Domains| Civil Engineering.
 
 <!--
 **Thomwize/Thomwize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
